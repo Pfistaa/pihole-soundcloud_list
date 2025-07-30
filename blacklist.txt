@@ -52,4 +52,3 @@ delivery.adswizz.com
 reporting.deliveryengine.adswizz.com
 www.adswizz.com
 xx0m-bb7z-1xmi.n7c.xano.io
-orchestrator-adtech-prod.t1p-adtech.aws.route71.net
